@@ -307,7 +307,7 @@ a {
 
 .sn-list {
     display: flex;
-    justify-content: centere;
+    justify-content: center;
     gap: 24px;
     padding: 8px;
 }
