@@ -412,15 +412,16 @@ a {
     padding: 100px 0;
 }
 
-/* .container-footer { 
+.container-footer { 
     margin: 0 auto;
     width: 1158px;
     padding: 0 15px;
     flex-direction: column;
-    align-items: center;
     display: flex;
     align-items: baseline;
-} */
+}
+
+
 
 .socnet-p {
     font-weight: 500;
