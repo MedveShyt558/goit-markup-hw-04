@@ -433,7 +433,7 @@ a {
 
 .socnet-list {
     display: flex;
-    display: flex;
+    gap: 16px;
 }
 
 .footer-cont {
