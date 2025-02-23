@@ -309,7 +309,7 @@ a {
     display: flex;
     justify-content: centere;
     gap: 24px;
-
+    padding: 8px;
 }
 
 .sn-link { 
