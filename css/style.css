@@ -350,6 +350,8 @@ a {
 }
 
 .works-list-item {
+    background-color: #fff;
+    border-top: none;
     width: calc((100% - 48px) / 3);
 }
 
