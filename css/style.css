@@ -437,6 +437,21 @@ a {
     gap: 16px;
 }
 
+.socnet-link-one {
+            width: 100%;
+            height: 100%;
+            background-color: #4d5ae5;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+}
+
+.socnet-link-one:hover,
+ .socnet-link-one:focus{
+    background-color: #31d0aa;
+}
+
 .footer-cont {
     margin-right: 120px
 }
