@@ -97,7 +97,7 @@ a {
     color: #404BBF;
 }
 
-.header-item-list.current {
+.link-header .current {
     position: relative;
     color: #404bbf;
 }
