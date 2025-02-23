@@ -97,7 +97,7 @@ a {
     color: #404BBF;
 }
 
-.link-header-1 {
+.link-header-one {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -111,12 +111,7 @@ a {
     color: #404BBF;
 }
 
-.link-header .current {
-    position: relative;
-    color: #404bbf;
-}
-
-.link-header .current::after {
+.link-header-one::after {
     content: '';
     position: absolute;
     width: 100%;
